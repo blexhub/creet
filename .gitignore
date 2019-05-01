@@ -76,3 +76,8 @@ log/*
 
 temp/
 temp
+
+build/
+migrations/
+test
+truffle-config.js
